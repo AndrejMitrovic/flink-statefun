@@ -1,8 +1,0 @@
-{
-  "name": "smoketest",
-  "main": "src/smoke.js",
-  "dependencies": {
-    "google-protobuf": "^3.18.0",
-    "apache-flink-statefun": "file:apache-flink-statefun.tgz"
-  }
-}
